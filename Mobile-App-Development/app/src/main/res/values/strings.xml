@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="toast">Toast</string>
+    <string name="vtoast">Hello toast!</string>
+    <string name="count">Count</string>
+    <string name="textview">TextView</string>
+    <string name="zero">0</string>
+
+    <!-- Exercises Menu -->
+    <string name="title_exercises">Android UI Exercises</string>
+    <string name="toggle_theme">Toggle Theme</string>
+    <string name="exercise_birthday">4. Birthday Card</string>
+    <string name="exercise_task_done">5. Task Done</string>
+    <string name="exercise_quadrant">3. UI Quadrant</string>
+    <string name="exercise_article">2. Article Exercise</string>
+    <string name="exercise_business_card">1. Business Card</string>
+    <string name="back_to_home">Back</string>
+
+    <!-- 1. Birthday Card -->
+    <string name="birthday_title">Happy Birthday Sam!</string>
+    <string name="birthday_from">From Emma</string>
+
+    <!-- 2. Task Done -->
+    <string name="task_completed_text">All Tasks Completed</string>
+    <string name="task_nice_work">Nice work!</string>
+
+    <!-- 3. Quadrant -->
+    <string name="quadrant_1_title">Text Composable</string>
+    <string name="quadrant_1_desc">Displays text and follows Material Design guidelines.</string>
+    <string name="quadrant_2_title">Image Composable</string>
+    <string name="quadrant_2_desc">Creates a composable that lays out and draws a given painter resource object.</string>
+    <string name="quadrant_3_title">Row Composable</string>
+    <string name="quadrant_3_desc">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="quadrant_4_title">Column Composable</string>
+    <string name="quadrant_4_desc">A layout composable that places its children in a vertical sequence.</string>
+
+    <!-- 4. Article -->
+    <string name="article_title">Jetpack Compose tutorial</string>
+    <string name="article_short_desc">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
+    <string name="article_long_desc">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest. Compose is built around composable functions. These functions let you define your app\'s UI programmatically because they let you describe how it should look and provide data dependencies, rather than focus on the UI\'s construction process (such as inflating an XML layout).</string>
+
+    <!-- 5. Business Card -->
+    <string name="biz_name">Osama Alhila</string>
+    <string name="biz_title">Senior Android Developer</string>
+    <string name="biz_phone">+972599123654</string>
+    <string name="biz_social">OsamaAlhila</string>
+    <string name="biz_email">Abu21anas@gmail.com</string>
+</resources>
